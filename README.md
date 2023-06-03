@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer engineer with a strong passion for coding. My interests fall at the intersection of software engineering, robotics and industrial automation.
+I am a computer engineer with a strong passion for coding. My interests fall at the intersection of software engineering, robotics, industrial automation and embedded systems.
 
 
 ## 🌐 Socials:
